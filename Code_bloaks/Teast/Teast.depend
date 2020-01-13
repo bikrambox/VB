@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1569175815 source:c:\users\mandex\documents\code_bloacks\teast\main.c
+	<stdio.h>
+
+1569175763 source:c:\users\mandex\documents\code_bloacks\teast\another.c
+	<stdio.h>
+

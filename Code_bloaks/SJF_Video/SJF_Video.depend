@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1569313632 source:c:\users\mandex\documents\github\vb\code_bloaks\sjf_video\main.c
+	<stdio.h>
+	<stdlib.h>
+

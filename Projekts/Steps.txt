@@ -1,0 +1,76 @@
+https://coreos.com/os/docs/latest/installing-to-disk.html
+
+
+
+coreos-install -d /dev/sda -i ignition.json -o vmware_raw
+
+
+
+
+
+
+---- BEGIN SSH2 PUBLIC KEY ----
+Comment: "rsa-key-20190916"
+AAAAB3NzaC1yc2EAAAABJQAAAQEAzG/YDA2EmTnV0WDDKLqJD+jJNJ/gGLEvF1eP
+j7kmLZsbrymd1wNKQdYIdS3jy/iZugiu9d8EVGzVHh/j8MIm59c1iZxNRBA30KiJ
+qoDZ3XJFUKvh4g9tp6GzlI2nObmb4Hv8K8xtl9UjJ6iQJYLWv9Bhhvvjcm85DrD7
+77YGkZn6sd3G1mRzI+hiDvt7v+heDVPefNRJ+mDhV37hwWaLu991sgUhWO5Kiiq4
+xKF07tao7x7jjgjCxWAGSnRX35cuU3sYunFrpcRI/2kMIF6VABZVzg/kh6GLGWxU
+7U2Vg0oTX6MuC5J4ipFTAuGCLkynMS8/uMNemS70nNiLwExwDQ==
+---- END SSH2 PUBLIC KEY ----
+
+
+
+
+
+
+
+
+
+
+
+PuTTY-User-Key-File-2: ssh-rsa
+Encryption: aes256-cbc
+Comment: rsa-key-20190916
+Public-Lines: 6
+AAAAB3NzaC1yc2EAAAABJQAAAQEAzG/YDA2EmTnV0WDDKLqJD+jJNJ/gGLEvF1eP
+j7kmLZsbrymd1wNKQdYIdS3jy/iZugiu9d8EVGzVHh/j8MIm59c1iZxNRBA30KiJ
+qoDZ3XJFUKvh4g9tp6GzlI2nObmb4Hv8K8xtl9UjJ6iQJYLWv9Bhhvvjcm85DrD7
+77YGkZn6sd3G1mRzI+hiDvt7v+heDVPefNRJ+mDhV37hwWaLu991sgUhWO5Kiiq4
+xKF07tao7x7jjgjCxWAGSnRX35cuU3sYunFrpcRI/2kMIF6VABZVzg/kh6GLGWxU
+7U2Vg0oTX6MuC5J4ipFTAuGCLkynMS8/uMNemS70nNiLwExwDQ==
+Private-Lines: 14
+1C4GQhffrkbLebAMoURSNxCGslc9yplhrhlGJeQ3n66MXSXw11x7dgKi0M0YNkUm
+Men7Wb3FMD0mfQAPO2pzxKk3DbkVEWves/vpM/L9BYvqT+KHScXGeTs8d2yJYvUZ
+l4IRXa2YRwbF0aM0TuJt1xjTu5r6STLhGU+yefPKslkHbOylMn6W1yEwUt97KFxC
+RcDjEVnWXxJ0OIsBosVY0dDjPKDqSB1p7c05J1Vp9axrpieUQ4NkxlL0q/pK4Wwb
+Vk+VkOIpdkRRJkK9O/uLbcJz4cSgJpKYx+hP4usfjTgyc3xXhx2WqICLQr2xdwQP
+z8vlIKrwzvTeKeM4mZm22KoFTe+JTkwa38+dzzLvFBuiEbJiIxa0psCcP2QoTufvs
+4dY5IpLpWxYtsv0ilI9scxAAEST9VA/BdDg9BZlxDA3q5LoXTVLRWCwLcOhVmPZ3
+abjVG3BTy+etAURY+jFknXBU2RTjUl+oKLCHy2gnjyu3jNBNUWmK9yhSD9l8PXcE
+GtPLWKwXH2XIaahINHrX54o6Qwu08OCrWJc2TRhAGHxCBAD+cWfCxizVA8uo4UgX
+UDf5IP50fwZrCN/l8GDk0WoElp9kWzXX8SpewfFKDdE3M3wI14Z6kYxZGOfewysG
+Z/Z3ChD130QHUmRUFI4KCOuvOCkGTLsxbPcKZoPsghLZQwPBqKhUqylsD9Ir9l8x
+oOiEuG+3ppleUxxMEvKWEEepvz6cuARfWRvCw1NJfIry2g00DkTex5TBFDzOHkil
++LMHWHWgWY7KLjIZIbIvt2gFqitIFG4nVdoMmITrQgjCfDBr2gegjaygwseS8/Ke
+LgnZwRYKnD1GG+kH2c3TTxzh8OTYJdG4QYgVB3u0qUsUt73o1P5btM+VY697eZ8q
+Private-MAC: 4b6a4ee387f18e04ff4e3e4b682a00cfc7920785
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://mega.nz/#!1c5A1CQY!hKWGbPcRMf_YK4nqLYwj6-KRfjb_3mVf7c7OVNUHy7s
+
+
+
+
